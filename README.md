@@ -8,13 +8,13 @@ NOTE: I first started writing privately about the subject of competing non-terri
 ## Content
 
 
-1. Preface
-2. What Is A Nation, And Why You Should Start Your Own
-3. The Basics - What To Think About Before Starting Your Own Nation
-4. The Organizational Form Of Your Nation
-5. What Governance Services Should Your Nation Provide?
-6. The Financial Structure Of Your Nation
-7. The Citizens Of Your Nation
-8. How To Leverage Technology For Your Nation
-9. Live And Let Live
+   Preface
+1. What Is A Nation, And Why You Should Start Your Own
+2. The Basics - What To Think About Before Starting Your Own Nation
+3. The Organizational Form Of Your Nation
+4. What Governance Services Should Your Nation Provide?
+5. The Financial Structure Of Your Nation
+6. The Citizens Of Your Nation
+7. How To Leverage Technology For Your Nation
+8. Live And Let Live
 
