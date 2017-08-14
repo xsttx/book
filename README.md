@@ -8,7 +8,7 @@ NOTE: I first started writing privately about the subject of competing non-terri
 ## Content
 
 
-   Preface
+   [Preface](https://github.com/xsttx/book/blob/master/Preface.md)
 1. What Is A Nation, And Why You Should Start Your Own
 2. The Basics - What To Think About Before Starting Your Own Nation
 3. The Organizational Form Of Your Nation
