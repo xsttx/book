@@ -5,7 +5,8 @@ NOTE: I first started writing privately about the subject of competing non-terri
 
 
 
-Content
+## Content
+
 
 1. Preface
 2. What Is A Nation, And Why You Should Start Your Own
