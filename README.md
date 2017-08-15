@@ -10,9 +10,9 @@ NOTE: I first started writing privately about the subject of competing non-terri
    
    [Preface](https://github.com/xsttx/book/blob/master/Preface.md)
    
-   Foreword
+   [Foreword](https://github.com/xsttx/book/blob/master/Foreword.md)
    
-   Acknowledgements
+   [Acknowledgements](https://github.com/xsttx/book/blob/master/Acknowledgments.md)
    
 1. What Is A Nation, And Why You Should Start Your Own
 2. The Basics - What To Think About Before Starting Your Own Nation
@@ -23,6 +23,6 @@ NOTE: I first started writing privately about the subject of competing non-terri
 7. How To Leverage Technology For Your Nation
 8. Live And Let Live
 
-   References And Further Reading
+[References And Further Reading](https://github.com/xsttx/book/blob/master/References%20And%20Further%20Reading.md)
 
 
